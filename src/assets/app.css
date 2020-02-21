@@ -1,0 +1,36 @@
+/* Elements */
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main-header {
+  padding: 1rem 0;
+  background: #eee;
+}
+
+.main-title {
+  max-width: 200px;
+}
+
+.main-content {
+  padding-top: 2rem;
+}
+
+.message {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background: #222;
+  color: #eee;
+}
+
+.stabilo {
+  background-color: yellow;
+}
+
+.infobox {
+  float: right;
+  margin-left: 2rem;
+}
